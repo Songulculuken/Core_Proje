@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EntityLayer.Concrete
 {
-    public class SociallMedia
+    public class SocialMedia
     {
         [Key]
         public int SocialMediaId { get; set; }
